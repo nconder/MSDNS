@@ -1,5 +1,4 @@
 <#
-Created by Nick Conder
 Add DNS A Records. This PowerShell script is to be used in combination with a CSV file produced by other scripts in an automation environment. 
 Change Log:
 v1.0
